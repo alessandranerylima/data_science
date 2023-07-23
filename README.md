@@ -9,7 +9,7 @@ Portfólio de projetos em Data Science
 
 ## Projetos:
 
-* **Previsão sobre séries temporais do mercado de energia usando Aprendizado de Máquina** 
+* **Previsão sobre séries temporais do mercado de energia usando Aprendizado de Máquina** https://bit.ly/3OpyUSe
 * **Finanças Públicas: Relatório Resumido de Execução Orçametária -LRF- Dashboards**
 * **Automação Robótica de Processos: Automação de impressão - gerando arquivo em pdf** 
 
