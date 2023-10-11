@@ -1,15 +1,15 @@
 # data_science
-Portfólio de projetos em Data Science
+Portfolio of projects in Data Science
 <p align="center">
   <img src="banner.png" >
 </p>
 
 # Alessandra Nery Lima
-<sub>*Analista de Business Intelligence/ Analista de Dados /Cientista de Dados* </sub>
+<sub>*Business Intelligence Analyst/ Data Analyst / Data Scientist** </sub>
 
 ## Projetos:
 
-* **Previsão sobre séries temporais do mercado de energia usando Aprendizado de Máquina** https://bit.ly/3OpyUSe and https://bit.ly/3DsuVOw
+* **Exploratory Data Analysis in Python Language for Retail** 
 * **Finanças Públicas: Relatório Resumido de Execução Orçametária -LRF- Dashboards**
 * **Automação Robótica de Processos: Automação de impressão - gerando arquivo em pdf** 
 
