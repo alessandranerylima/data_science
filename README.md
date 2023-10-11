@@ -1,6 +1,6 @@
 # data_science
 Portfolio of projects in Data Science
-<p align="center">
+-<p align="center">
   <img src="banner.png" >
 </p>
 
