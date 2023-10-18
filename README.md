@@ -17,8 +17,9 @@ Portfolio of projects in Data Science
 
 ## Projects:
 
-* **Exploratory Data Analysis in Python Language for Retail**
-* **Data Cleaning of Glassdor Job Posting**https://bit.ly/45y0WjT
+* **Exploratory Data Analysis in Python Language for Retail** https://bit.ly/3tD0bca
+* **Data Cleaning of Glassdor Job Posting** https://bit.ly/45y0WjT
+* **Previsão sobre séries temporais do mercado de energia usando Aprendizado de Máquina** https://bit.ly/3DsuVOw https://bit.ly/3OpyUSe
 * **Finanças Públicas: Relatório Resumido de Execução Orçametária -LRF- Dashboards**
 * **Automação Robótica de Processos: Automação de impressão - gerando arquivo em pdf** 
 
