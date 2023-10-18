@@ -6,6 +6,15 @@ Portfolio of projects in Data Science
 # Alessandra Nery Lima
 <sub>*Business Intelligence Analyst/ Data Analyst / Data Scientist** </sub>
 
+<div align="left">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandranerylima/)](https://www.linkedin.com/in/alessandranerylima/)
+ 
+  
+</div>
+
+
+
 ## Projects:
 
 * **Exploratory Data Analysis in Python Language for Retail** 
