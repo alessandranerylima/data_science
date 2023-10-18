@@ -3,7 +3,8 @@ Portfolio of projects in Data Science
 <p align="center">
   <img src="banner.png" >
 </p>
-# Alessandra Nery Lima
+# Alessandra Lima
+
 <sub>*Business Intelligence Analyst/ Data Analyst / Data Scientist** </sub>
 
 <div align="left">
