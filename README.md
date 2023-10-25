@@ -20,7 +20,7 @@ Portfolio of projects in Data Science
 
 * **Data Cleaning of Glassdor Job Posting** https://bit.ly/45y0WjT
 * **Exploratory Data Analysis for Retail** https://bit.ly/3tD0bca
-* **Previsão sobre séries temporais do mercado de energia usando Aprendizado de Máquina** https://bit.ly/3DsuVOw https://bit.ly/3OpyUSe
+* **Prediction on energy market time series using Machine Learning** https://bit.ly/3FxdUny
 * **Finanças Públicas: Relatório Resumido de Execução Orçametária -LRF- Dashboards**
 * **Automação Robótica de Processos: Automação de impressão - gerando arquivo em pdf** 
 
